@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Considerations concerning Ireland, in relation to England· And particularly in respect of an union.</title>
+         </titleStmt>
+         <extent>Approx. 21KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20634</idno><idno type="EEBO-CITATION">99885982</idno>
+  <idno type="VID">188596</idno>
+  <idno type="EEBO-PROQUEST">2248535273</idno>
+  
+            <idno type="STC">Wing C5908aA</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.17[57]</idno>
+            <idno type="STC">ESTC R225256</idno>
+            <idno type="PROQUEST">ocm99885982</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885982e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20634)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188596)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:2[53])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Considerations concerning Ireland, in relation to England· And particularly in respect of an union.</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  1660-1690 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188596:1"/>
+            <head>
+               <hi>Considerations Concerning</hi> IRELAND, In Relation to ENGLAND. And Particularly in respect of an UNION.</head>
+            <p n="1">I. IT is necessary for <hi>England,</hi> that <hi>Ireland</hi> shou'd be intirely in the English hands.</p>
+            <p>This can't be done, but by a strong party of English in this Kingdom of <hi>Ireland.</hi>
+            </p>
+            <p>How such a Party is to be kept up here, is to be consider'd.</p>
+            <p>In order to it let us suppose;</p>
+            <p>If this Kingdom were now first reduced; the Lands reserv'd to the <hi>Irish,</hi> the same as are now restor'd to them, or at present enjoy'd by them; and the remainder were to be dispos'd of to English Planters and Purchasers:</p>
+            <p>The Question wou'd be, What Encouragements wou'd be sufficient to induce the English to Purchase and Plant here, in such numbers as should answer the Intent and Interest of <hi>England?</hi> What Advantages wou'd these Planters expect, and wou'd it be reasonable the English shou'd grant them?</p>
+            <p n="2">II. 'Tis certain few wou'd be willing to leave their native Countrey and secure Dwelling, to come to a strange Place, less secure; unless they cou'd propose to themselves some profit here, beyond what they cou'd make by staying in <hi>England.</hi> This Advantage it's reasonable <hi>England</hi> shou'd allow them, if they wou'd have this Country well Peopled with English. And this Advantage wou'd be had,</p>
+            <p n="1">1. By the easie Penny-worths of Land, or Rent of Farms, in a fruitful and improving Soil as <hi>Ireland</hi> is.</p>
+            <p n="2">2. By a Liberty of using English or Forreign Markets for their Growth and Product.</p>
+            <p n="3">3. It's reasonable also, that the Profits they make shou'd be some way secur'd to them, that is, that they might have competent Assurance of enjoying what they shou'd gain; so as not to fear that it shou'd be taken from them, either by the <hi>Irish</hi> over-running them, or by Arbitrary Impositions of <hi>England</hi> without their Consent. These two Assurances they wou'd competently have, by being granted,</p>
+            <p n="1">(1.) The Civil Government of <hi>England,</hi> (for it's suppos'd they wou'd desire no better, both for Them<g ref="char:EOLhyphen"/>selves and the <hi>Irish.</hi>)</p>
+            <p n="2">(2.) Setled Laws; and a Power of altering them by Themselves or Representatives, according to Emergencies.</p>
+            <p n="3">(3.) That they shou'd not wholly lose their Priviledges in <hi>England,</hi> as English men, by removing hi<g ref="char:EOLhyphen"/>ther; and that the <hi>Irish</hi> shou'd partake (in some degree) of the same Priviledges, in order to unite them as one People with the English in this Kingdom.</p>
+            <p n="4">(4.) With these Advantages, they ought to be content that <hi>England</hi> shou'd have a Power of over-ru<g ref="char:EOLhyphen"/>ling
+<pb facs="tcp:188596:2"/>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> dice of <hi>England.</hi>
+            </p>
+            <p n="3">III. On this foot we seem now to stand: And the <hi>Magna Charta</hi> of <hi>Ireland,</hi> that confirms to us all these Advantages inviolably, is the Interest of <hi>England;</hi> which is, That the English here shou'd be strengthened and supported against both <hi>Irish</hi> and <hi>Forreigners;</hi> so that <hi>England,</hi> (if they will see and be guided by their true Interest) cannot infringe these Advantages without manifest prejudice to them<g ref="char:EOLhyphen"/>selves: Nor make any Laws for us that shall weaken us, without weakning themselves.</p>
+            <p n="4">IV. But there is this difference between the Case Suppos'd, and the Case in Fact, of this Kingdom.</p>
+            <p>It has hapned through the calamitousness of times, that whatever sums English Planters have laid out on Estates here, the People of <hi>England</hi> have more than over again purchas'd the same Estates, by rescu<g ref="char:EOLhyphen"/>ing them out of the hands of Irish Rebels or Enemies, at their own Expence.</p>
+            <p>And tho' they have not taken the Advantage of these repeated Purchases, so as to make the English Planters redeem their several Estates: Partly from their own Interest, that they might not too much weaken the English here; and partly out of Generousness and Charity in thinking that their Countrey-men sustain'd loss enough, by having their Countrey the Seat of War, and their Stocks and Improve<g ref="char:EOLhyphen"/>ments ruin'd;</p>
+            <p>Yet it may seem that <hi>England</hi> at this time may reasonably take the Advantages of their repeated Pur<g ref="char:EOLhyphen"/>chases so far, as to consider whether the present Constitutions of this Kingdom are best for their Inte<g ref="char:EOLhyphen"/>rest, or how otherwise they might be modell'd more for their Advantage.</p>
+            <p>Nor is there any danger hereby of discouragement to the English in <hi>Ireland:</hi> Since the Interest of <hi>England</hi> will necessarily lead the English Parliament to take such measures for <hi>Ireland,</hi> as may most strengthen the English that are here, and encourage others to come to them; which is all that the Eng<g ref="char:EOLhyphen"/>lish in <hi>Ireland</hi> can desire.</p>
+            <p n="5">V. By what right the People of <hi>Ireland</hi> hold a Parliament, does not appear; neither by what right they did put it into the hands of the Court of <hi>England,</hi> by <hi>Poynings</hi> Act; However the Crown having been so long possest of this Priviledge, it shou'd seem, that tho' the People of <hi>England</hi> may have right against the People of this Kingdom, to take the Constitutions of it at present into their own hands, and to dispose of them as they think fit, yet they have not that right against the Crown. If they have pur<g ref="char:EOLhyphen"/>chas'd us out of our Rights, they have not purchas'd the King and his Councils out of theirs. Besides, his present Majesty has expos'd his Person, and exhausted his Treasure in the Reduction of <hi>Ireland;</hi> and has been a Party Purchaser with the People of <hi>England,</hi> for whatever might be claim'd to be had by right of Purchase here, if the Constitutions of this Kingdom may be reckon'd among such.</p>
+            <p n="6">VI. How (now) to unite the Interest of the People of <hi>England</hi> with the Interest, or rather Privi<g ref="char:EOLhyphen"/>ledges, of the Crown in this point, will be the Question. But to pass this by at present; it is here to be consider'd how far it is now the Interest of the People of <hi>England</hi> to new model the Constitutions of this Kingdom, and to take them into their own hands. In order to examine this, we may observe; First,</p>
+            <p n="7">VII. That it is wonderful to consider, that there shou'd be such strangeness between two Countreys so nearly united in Interest, as there has been between <hi>England</hi> and this place; if we enquire into the Reasons of it, they seem to be,</p>
+            <p n="1">1st. On the part of <hi>England;</hi> Their People find that the flourishing of this Kingdom makes their Rents in <hi>England</hi> fall; perhaps it is too true, and there's no help for it. The Question is, whether they had better have their Rents fall alittle, or be frequently at the Expence of so many millions as they have been at in reducing <hi>Ireland.</hi> That their Rents must fall by the flourishing of <hi>Ireland,</hi> seems plain from hence;</p>
+            <p>
+               <hi>First,</hi> Farmers remove themselves thither, where they may have the easiest Bargains.</p>
+            <p>
+               <hi>Secondly,</hi> The Corn, Hides, Tallow, Linnen and Woollen Cloath, and Manufactures of <hi>Ireland,</hi> (if they were permitted to be sold only in Forreign Markets, and not in <hi>England</hi>) will yet sink the value of these Commodities in <hi>England,</hi> which must necessarily sink the Rents there.</p>
+            <p n="2">2ly. A second Reason of the strangeness of <hi>England</hi> to <hi>Ireland,</hi> is, that they look upon the People here in gross, as different from them, and their Enemies. They consider not the English stake here; but look upon all here in effect to be Irish. And indeed the English Planters here have given too much occasion for it, by closing in with the Irish, and degenerating to their humours. But this will make the thing proposed of <hi>Englands</hi> taking this Kingdom into its own hands, now more necessary, as the only probable means to remedy this Evil; for while we lookt upon our selves to be a distinct King<g ref="char:EOLhyphen"/>dom, and to have a Legislative Power within our Selves, we were more ready to forget <hi>England,</hi> and to bandy and side with the Irish; and as this bred aversion in the People of <hi>England</hi> to us, it reciprocally increas'd ours to them. Hence grew those Jealousies, even among the English here, of the Power of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> over this place, and our great stickling against their making Laws for us. But who it was fomented these Debates, and put these Jealousies into our Heads, appears by what the Irish lately did wh<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it came into their Power, by their Act past in their pretended Parliament, in which they utterly cut off this Kingdom from <hi>England;</hi> and declared against the Right of <hi>England</hi> to make any Laws for this Kingdom.</p>
+            <p n="3">3ly. A third Reason of the strangeness of <hi>England</hi> to <hi>Ireland,</hi> was, that we seem'd remote to them; in<g ref="char:EOLhyphen"/>dependent on them; a People setting up for our selves. And this, because there was no Communica<g ref="char:EOLhyphen"/>tion
+<pb facs="tcp:188596:3"/>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> proceedings; They look'd upon us at a distance, and were in the dark as to our affairs, which bred jealousies and distrusts: and thought it enough to wish this Island sunk in the Sea; tho' they might with the same pains, have wish'd it to be turn'd to Gold.</p>
+            <p n="4">IV. A fourth reason is, that they look'd upon this Kingdom to be Peopled with Men of desperate fortunes, and the scum of their Nation, that have come over hither with the several <hi>English</hi> Armies, and planted here; and with the Bankrupts and Cheats of <hi>England,</hi> that have from time to time fled hi<g ref="char:EOLhyphen"/>ther from <hi>England</hi> for refuge, to defraud their Creditors there. Also many in <hi>England</hi> have had consi<g ref="char:EOLhyphen"/>derable stakes here; who have intrusted them to their Agents, and have been defrauded and abused by them; All this is too true. But then it must be considered, that there are some <hi>English</hi> of worth and goodness here, who deserve their favour and esteem, and for whose sake they ought to look more kindly on the whole. And next, that let them that are here be what they will, if they are <hi>English,</hi> they ought to be countenanced and upheld as the Bulwark of <hi>England</hi> against the <hi>Irish</hi> and Forreigners.</p>
+            <p>Secondly, On the part of <hi>Ireland;</hi> The reasons of strangeness have been.</p>
+            <p n="1">I. That the People of <hi>England</hi> have disregarded and cast off the <hi>English</hi> here; They have set them<g ref="char:EOLhyphen"/>selves to suppress them, and keep them low; and this has made the <hi>English</hi> here more readily to c<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>se in with the <hi>Irish,</hi> and to set up for an Interest different from <hi>England.</hi>
+            </p>
+            <p n="2">II. The <hi>English</hi> here having no Representatives in the Parliament in <hi>England,</hi> the debates there (for want of some to possess them with the Condition of <hi>Ireland,</hi> and the true interest of <hi>England,</hi> in respect of it) have run so high in disfavour of <hi>Ireland,</hi> (without regard to any difference between the <hi>English</hi> and <hi>Irish</hi> Inhabitants of it,) that it very much alienated the minds of the <hi>English</hi> here from <hi>England.</hi>
+            </p>
+            <p n="3">III. Interest helps on the same thing. For while the People of <hi>England,</hi> through intentness on their private interest (in respect of their Rents) set themselves to keep <hi>Ireland</hi> as poor as they can, (which they have done by prohibiting the Transportation of Cattle, and the Plantation Trade they made those that were here espouse the concern of this Country, without regard to <hi>England.</hi> And it was observa<g ref="char:EOLhyphen"/>ble, that when an <hi>English-Man</hi> came hither, he quickly degenerated in his affections; and his Interest byass'd for <hi>Ireland,</hi> insomuch that we hardly find a Man who had liv'd seven years in <hi>Ireland,</hi> and de<g ref="char:EOLhyphen"/>sign'd to Live in it, but he became sensibly averse to <hi>England,</hi> and grew something of an <hi>Irish-man</hi> in his affections; And it is a melancholy thing for Men to have the prospect of their Children in a Gene<g ref="char:EOLhyphen"/>ration or two, to be treated as Rebels, which too often happens.</p>
+            <p>The result of the whole is this, that from what reason soever this strangeness between <hi>Ireland</hi> and <hi>Eng<g ref="char:EOLhyphen"/>land</hi> has grown, the Consequences of it have been too apparent, and prejudicial to both sides; and some remedy ought to be thought on for it.</p>
+            <p n="8">VIII. The second thing to be observed is, that <hi>Ireland,</hi> as it is manag'd, has been a constant Charge to <hi>England.</hi> It has now thrice in a hundred years put <hi>England</hi> to a new Conquest: and by joyning with the Enemies of <hi>England,</hi> as it did in Queen <hi>Elizabeths</hi> Rebellion, and this present; and endeavour'd to do in King <hi>Charles</hi> the first's time: it has not only endangered the Peace of <hi>England</hi> but even the Crown it self It bears no part of <hi>Englands</hi> burden; And <hi>England</hi> is so much the weaker by having it; as it is harder to defend a great Scope of ground than a little; Nay, as it is harder to fight against a Forreign Enemy, and suppress a domestick Rebellion, (which usually happens at the same time,) than to defend against an Invasion only.</p>
+            <p n="9">IX. Thirdly, We may observe, that between <hi>England</hi> and <hi>Wales</hi> there is none of this strangeness, be<g ref="char:EOLhyphen"/>cause the Interests of both are United in one Legislative Power. An <hi>English-man</hi> that removes into <hi>Wales,</hi> doth not lose his Birth-right or Priviledges he had before in the Legislative Power of <hi>England;</hi> And therefore he is as stanch to the Interest of <hi>England</hi> as ever; and he still bears the same proportion of the burden of the Kingdom in Taxes as he did before; And therefore no body grudges what riches he carries with him when he removes.</p>
+            <p>But the case is different, if a Man remove to <hi>Ireland;</hi> He loses this Birth-right and Priviledges; he neither is represented in the <hi>English</hi> Parliament, nor is under their Laws; He loses the benefit of Tra<g ref="char:EOLhyphen"/>ding, and many other advantages. On the contrary, in bearing none of the burden of <hi>England;</hi> what<g ref="char:EOLhyphen"/>ever he brings with him is lost out of the Common stock there: which is therefore grudged by the People of <hi>England,</hi> and look'd on with a jealous eye, because the same riches which he brings from them, serves to encrease the Trade here, which must necessarily sink their Rents there.</p>
+            <p n="10">X. The fundamental remedy to all these inconveniencies, is plainly the Uniting this Kingdom to <hi>England,</hi> in the Legislative Power. This is the only means to Unite the Interests of both Kingdoms, and that will Unite the affections; their interests will ever be different, while they are under different Legislative Powers; For, though they have but one individual King, yet he stands in two capacities to them whilst they are two Kingdoms, and their Interests are almost as different as if they were under two Kings. But if the Legislative Power were the same, and by consequence the Laws and Priviled<g ref="char:EOLhyphen"/>ges the same, there wou'd be no more Clashing of Interests between them, than between one Shire of <hi>England</hi> and another: at most no greater than between <hi>England</hi> and <hi>Wales.</hi> And tho' (as has been said) the flourishing of this Kingdom must necessarily sink the Rents in <hi>England,</hi> yet the People of <hi>England,</hi> when they have the Legislative Power of this Kingdom in their hands, will see that this is not to be avoided without greater prejudice to themselves, and will submit more willingly to it when it is in their own Power to help it, and choose to pass it by for a greater good, since if it cou'd be safe, it will
+<pb facs="tcp:188596:4"/>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as <hi>Ireland</hi> yields, it must in course have Trade. But they will also find, that the flourish<g ref="char:EOLhyphen"/>ing of this Kingdom will make some amends to <hi>England,</hi> for the prejudice of sinking its Rents, since it will be able to bear a greater share of <hi>Englands</hi> Taxes; To say nothing of the strengthening it may give to <hi>England,</hi> by Shipping, Sea-men, and Souldiers, in proportion to its flourishing.</p>
+            <p n="11">XI. As to accommodating this Union to his Majesties Interest in the Legislative Power of this King<g ref="char:EOLhyphen"/>dom by <hi>Poynings</hi> Act;</p>
+            <p>'Tis certain this is too considerable a Flower in the Prerogative to be expected to be parted with easi<g ref="char:EOLhyphen"/>ly. The late King <hi>James</hi> was so sensible of this, when tho' he consented to an Act that cut off this Kingdom from the Parliament of <hi>England,</hi> yet he cou'd not be brought to the Repeal of <hi>Poynings</hi> Act; [which Act has in effect sold this Kingdom into the hands of the Courtiers; so that whoever in this Kingdom can see best, either of the <hi>Irish</hi> or <hi>English,</hi> are in a fair way of carrying their terms: than which nothing can be more opposite to the Interest of <hi>England;</hi> nor does hardly any thing concern them more than to provide some remedy for it.</p>
+            <p n="12">XII. The advantages of such an Union must be many to both Kingdoms, besides the removing the inconveniencies before spoken of; And among these it ought not to be reckon'd the least, that it will greatly conduce to Unite the <hi>Irish</hi> and <hi>English</hi> in this Country; for while the <hi>Irish</hi> have hitherto liv'd under a separate Legislative Power from <hi>England,</hi> they have look'd upon themselves still as a distinct People; but their coming under the <hi>English</hi> Legislative Power, and being United to <hi>England,</hi> the Pri<g ref="char:EOLhyphen"/>viledges and Immunities will by degrees carry them off from their old distinction, and they will be<g ref="char:EOLhyphen"/>gin to think themselves <hi>English-men,</hi> and to be affected accordingly. This, tho' with much imperfection and partiality, was practised in the late Usurpers time, and was doubtless one of the causes that gave <hi>Ireland</hi> so sudden a recovery as it obtain'd then.</p>
+            <p n="13">XIII. The objection against this Union, on the part of <hi>Ireland,</hi> is, that it will become then Subje<g ref="char:EOLhyphen"/>cted to the <hi>English</hi> Taxes: and that tho' <hi>Ireland</hi> shou'd have Representatives in the Parliament there, yet the rest, being so much the greater number, will always over-vote them.</p>
+            <div type="part">
+               <head>The Answer to this is,</head>
+               <p n="1">1. 'Tis probable it will be agreed at first, that for some years <hi>Ireland</hi> may be exempted from Taxes.</p>
+               <p n="2">2. A certain proportion may be agreed on according to the value of the Rents of <hi>Ireland,</hi> by which, and not beyond, it may hereafter be Tax'd in all mony Bills, till its Improvements shall induce the making a new proportion.</p>
+               <p n="3">3. It had better bear such a proportion in every Tax in <hi>England,</hi> with the security it will then enjoy, than be liable so often as it now is, to be turn'd upside down, and totally ruin'd; And it will abundantly ballance for its bearing a part of the <hi>English</hi> Taxes, that it shall have a proportional interest in the Laws, and Immunities and Priviledges of <hi>England,</hi> which now it wants, and which will be so much more beneficial to it, than those Taxes can be a burden. It will then have liberty to represent its grie<g ref="char:EOLhyphen"/>vances, and it will be in the Power, as well as in the care of the Parliament of <hi>England</hi> to redress them. We all foresaw (for instance) by what steps this last War grew, but cou'd not prevent it, because we were not allow'd a Parliament; and the <hi>English</hi> Parliament cou'd neither fully understand nor prevent it. But if there had been a sufficient number of Members from <hi>Ireland</hi> in it, and <hi>Ireland</hi> part of the Parliaments Province, it had been much easier to have found remedies in time against it.</p>
+               <p n="14">XIV. As to the manner of this Union, it may very well be left to the Parliament in <hi>England</hi> to determine it; Their Interest bound up in ours, is our sole and great security.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
